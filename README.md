@@ -1,13 +1,5 @@
-🚀 100 Days of Coding – DSA Journey
+# 21 Days of Coding
 
-Welcome to my 100 Days of Coding Challenge! 🌟
-This repository is where I document my progress, challenges, and solutions while diving deep into Data Structures and Algorithms (DSA).
+A self-driven commitment to code every day for 21 days. This repository documents my daily progress across problem-solving, data structures, algorithms, and real-world development tasks to build consistency, discipline, and strong fundamentals.
 
-💡 Short-term Goal: Master the fundamentals of DSA step by step — building a strong foundation that will help me in problem-solving, interviews, and real-world development.
-
-🏹 Current Focus
-
-🔸 Sharpening my JAVA
-basics (loops, functions, input/output, etc.)
-🔸 Building problem-solving skills with Arrays (searching, frequency, largest/smallest element, subarrays, etc.)
-🔸 Practicing Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, + exploring Merge/Quick Sort soon 🚀)
+Through this journey, I focus on improving my logical thinking, writing clean and efficient code, and applying concepts through hands-on practice. Each day reflects incremental growth.
