@@ -1,4 +1,4 @@
-# 21 Days of Coding
+# 31 Days of Coding
 
 A self-driven commitment to code every day for 21 days. This repository documents my daily progress across problem-solving, data structures, algorithms, and real-world development tasks to build consistency, discipline, and strong fundamentals.
 
