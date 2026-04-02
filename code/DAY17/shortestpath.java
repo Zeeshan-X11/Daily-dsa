@@ -1,4 +1,4 @@
-package STRINGS;
+package DAY17;
 
 public class shortestpath {
     public static float getshortestpath(String path){
